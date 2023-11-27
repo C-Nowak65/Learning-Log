@@ -1,0 +1,15 @@
+# Virtual Environment
+venv/
+
+# Compiled Python files
+*.pyc
+
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.pyo
+*.pyd
+
+# IDE specific files
+.idea/
+
+11_env
