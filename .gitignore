@@ -13,3 +13,7 @@ __pycache__/
 .idea/
 
 11_env/
+
+/learning_logs/__pycache__/
+
+/ll_project/__pycache__/
