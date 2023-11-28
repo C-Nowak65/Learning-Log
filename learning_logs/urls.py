@@ -9,3 +9,4 @@ urlpatterns = [
     #Home page
     path('', views.index, name='index'),
 ]
+
