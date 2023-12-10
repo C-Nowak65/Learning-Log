@@ -17,3 +17,9 @@ __pycache__/
 /learning_logs/__pycache__/
 
 /ll_project/__pycache__/
+
+
+#Platform SH configs
+/.platform.app.yaml
+/.platform/services.yaml
+/.platform/routes.yaml
